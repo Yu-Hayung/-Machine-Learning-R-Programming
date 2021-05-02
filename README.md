@@ -1,7 +1,7 @@
-# Machine-Learning-R-Programming
+# Machine-Learning-R-Programming (기법 연습 )
 
 ---
-머신러닝 개념을 R 프로그램으로 분석한 프로젝트 이다. 
+머신러닝(기법) 개념을 R 프로그램으로 분석한 프로젝트 이다. 
 
 분류 
 -  나이브 베이즈 모형
